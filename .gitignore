@@ -3,3 +3,5 @@ ui/public/speedtest_worker.js
 ui/pnpm-lock.yaml
 backend/embed/ui/
 tmp
+prompt
+.gpteng
