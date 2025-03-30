@@ -3,7 +3,7 @@ module github.com/samlm0/als/v2
 go 1.21.4
 
 require (
-	github.com/creack/pty v1.1.21
+	github.com/creack/pty v1.1.24
 	github.com/gin-gonic/gin v1.9.1
 	github.com/google/uuid v1.5.0
 	github.com/gorilla/websocket v1.5.1
