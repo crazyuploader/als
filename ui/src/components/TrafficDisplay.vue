@@ -221,7 +221,7 @@ onUnmounted(() => {
               </span>
             </n-gi>
             <n-gi>
-              <h3>{{ $t('server_bandwidth_graph_sended') }}</h3>
+              <h3>{{ $t('server_bandwidth_graph_sent') }}</h3>
               <span class="traffic-display">
                 {{ formatBytes(interfaceData.traffic.send, 2, true) }} /
                 {{ formatBytes(interfaceData.send) }}

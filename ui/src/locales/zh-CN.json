@@ -12,7 +12,7 @@
   "network_tools": "网络工具",
   "server_bandwidth_graph": "服务器流量图",
   "server_bandwidth_graph_receive": "已接收",
-  "server_bandwidth_graph_sended": "已发送",
+  "server_bandwidth_graph_sent": "已发送",
   "my_address": "您当前的 IP 地址",
   "ipv4_address": "IPv4 地址",
   "ipv6_address": "IPv6 地址",

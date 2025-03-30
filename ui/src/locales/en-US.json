@@ -12,7 +12,7 @@
   "network_tools": "Network tools",
   "server_bandwidth_graph": "Server bandwidth graph",
   "server_bandwidth_graph_receive": "Received",
-  "server_bandwidth_graph_sended": "Sended",
+  "server_bandwidth_graph_sent": "Sent",
   "ipv4_address": "IPv4 Address",
   "ipv6_address": "IPv6 Address",
   "my_address": "Your current IP address",
